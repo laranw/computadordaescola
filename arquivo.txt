@@ -6,7 +6,7 @@ programa
     real valorfinal=0.0
 		
 		inteiro opcao
-    escreva("Lanchonete da Lara\n\n")
+    escreva("Lanchonete da Lara Monique - versao2\n\n")
 		faca
 		{
 
